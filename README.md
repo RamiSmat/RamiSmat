@@ -7,7 +7,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying ICT engineering at the National Engineering School of Tunis.\
-🌱 &nbsp;I'm on track for learning more the Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about the Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play CTFs and edit videos.
 
 #### 🛠 &nbsp;Tech Stack
